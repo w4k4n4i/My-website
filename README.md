@@ -1,2 +1,2 @@
 # My-website
-M y First Github Page
+My First Github Page
